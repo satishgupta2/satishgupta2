@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/satish-gupta-1397121b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish gupta" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100012140599198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satish gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/satish__sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satish__sg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCfUTUhj1xAuminhKRks418g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satish gupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfUTUhj1xAuminhKRks418g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satish gupta" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/satishgux0qh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satishgux0qh" height="30" width="40" /></a>
 </p>
 
