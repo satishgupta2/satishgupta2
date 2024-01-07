@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishgupta2&label=Profile%20views&color=0e75b6&style=flat" alt="satishgupta2" /> </p>
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://portfoliocodewithsg.netlify.app/](https://portfoliocodewithsg.netlify.app/)
 
